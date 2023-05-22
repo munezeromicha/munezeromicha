@@ -5,7 +5,7 @@
 - 📫 How to reach me on: 
 - Email: munezerontaganiramichel2000@gmail.com
 - #website: https://michaelport.000webhostapp.com/index.html
-- Linkedin: linkedin.com/in/munezero-ntaganira-michel-49b3bb237
+- Linkedin: https://www.linkedin.com/in/munezero-ntaganira-michel-49b3bb237/
 - Twitter: https://twitter.com/michel_munezero
 - Instagram: https://www.instagram.com/munezero_michael/
 - Facebook: https://www.facebook.com/munezero.michel/
