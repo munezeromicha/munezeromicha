@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Developing more new stuff and features.
 - 📫 How to reach me on: 
-- Email: munezerontaganiramichel2000@gmail.com
-[![Linkedin](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F018%2F930%2F587%2Foriginal%2Flinkedin-logo-linkedin-icon-transparent-free-png.png&tbnid=kLDphIHvBO79NM&vet=12ahUKEwjDv7qQ8Ir_AhWGnCcCHcfxBzMQMygAegUIARDQAQ..i&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&docid=rowi1yDZU8v-SM&w=1920&h=1920&q=linkedin%20transparent%20icon&ved=2ahUKEwjDv7qQ8Ir_AhWGnCcCHcfxBzMQMygAegUIARDQAQ)](https://www.linkedin.com/in/munezero-ntaganira-michel-49b3bb237/)
+- Email: munezerontaganiramichel2000@gmail.com  
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munezero-ntaganira-michel-49b3bb237/)
+
 
 
 - #website: https://michaelport.000webhostapp.com/index.html
