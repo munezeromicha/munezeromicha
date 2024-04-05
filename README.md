@@ -13,7 +13,7 @@
 
 “I’m a developer with experience in building websites for small and medium sized businesses. I'm looking for providing good services, 
 list your services or even create a whole online store – I can help you in any thing, I'm specialised with!
-I’m experienced in HTML and CSS 3, C Programming, C++, WordPress, 000webhost.
+I’m experienced in HTML and CSS 3, C Programming, C++.
 I’ll fully project manage your brief from start to finish.
 
 <!---
